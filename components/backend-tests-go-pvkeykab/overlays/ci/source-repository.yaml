@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: backend-tests-go-pvkeykab-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/backend-tests-go-pvkeykab
